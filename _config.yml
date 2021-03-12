@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+locale                   : "en-US"
+title                    : "PhD Syllabus -- Mor Naaman"
+title_separator          : "-"
+name                     : &name "Mor Naaman"
+description              : &description "Syllabus for PhD students working in my group"
