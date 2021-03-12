@@ -1,6 +1,4 @@
-layout: page
-title: "Syllabus for Mor Naaman's PhD students"
-permalink: /
+
 
 ## Mor Naaman -- Advisor PhD "Syllabus"
 
