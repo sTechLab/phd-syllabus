@@ -1,9 +1,12 @@
 theme: jekyll-theme-cayman
 locale                   : "en-US"
-title                    : "PhD Syllabus - Mor Naaman"
+title                    : "PhD Syllabus | Mor Naaman"
 title_separator          : "-"
 name                     : &name "Mor Naaman"
 description              : &description "Syllabus for PhD students working in my group"
 
 github:
   is_project_page        : false
+
+og_image                 :  # Open Graph/Twitter default site image
+og_title:                : "Syllabus for PhD Students in my Group | Mor Naaman"
