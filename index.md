@@ -1,6 +1,6 @@
 
 
-### Rationale
+## A Syllabus for PhD Students in my Group
 
 While we give explicit guidance to our students in the classroom via our syllabi, we don’t do that for our PhD students.  This document is meant to capture the expected experience -- with its requirements and offerings, benefits and drawbacks  --  of a PhD student _working with me as an advisor, as part of my lab at Cornell Tech_.
 
