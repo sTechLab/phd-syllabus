@@ -286,7 +286,14 @@ You are welcome to write papers without me, and likely to do so e.g. during inte
 With many of our papers submitted to highly peer-reviewed conferences, you can expect to be able to present your research in conferences (and similar settings), often to dozens if not hundreds of people. Later in your PhD you are also likely to have other presentations of your research work, including seminars and eventually job talks. I will help you prepare for these talks, taking an iterative process that follows in many ways the paper-writing process outlined above: planning/outlining, drafts, iterations. Expect more of this feedback and iteration earlier in your PhD; it is not uncommon for students to give 3-5 practice versions of the talk before their public presentation, at least in their early years. Job talks often take 10 or more iterations to “nail”. 
 
 Relatedly, I am also likely to present you research in invited talks, lectures and seminars. I will of course give you prominent credit when I do so. 
-
+ 
+#### Travel to Conferences and other Events
+ 
+I will cover expenses related to travel for the lead author of papers we submitted together to a conference. I will likely ask you to submit a request a [travel grant from Cornell](https://gradschool.cornell.edu/financial-support/travel-funding-opportunities/) to cover some of the expenses. I will likely not be able to broadly fund travel to other events including stand-alone workshops, talks, conferences where you do not have a paper, etc. There are exceptions so if you are interested in traveling to such events, ask me about it before making plans (or submitting). 
+  
+When you do travel, I will ask you to keep expenses to a reasonable level for flights, hotel, meals, etc. (rough guideline: whatever you would have spent yourself if you could afford it and were paying for it). Of course, you should be comfortable and safe during the trip so do not choose, for example, a dangerous neighborhood or unofficial taxi just to save money. You should share hotel rooms whenever possible and reasonable to do so. Instead of meal receipts, you should keep general count of your food expenses and ask for an equivalent per-diem to cover them. 
+ 
+ 
 ### Non-Research Work
 Expect to have quite a lot going on in your work besides research. 
 
