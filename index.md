@@ -62,7 +62,7 @@ I do expect you to apply for appropriate fellowships during your PhD. Such fello
 
 #### Stipend
 
-Your stipend is determined by the Graduate School at Cornell and Cornell Tech. The PhD stipend is by no means a lot of money, but I believe people have found that it supports a comfortable life that allows you to focus on your studies, even in NYC. Note that there is a stipend supplement for NYC-based students who get a slightly higher stipend than Ithaca-based students (see more about location below), recognizing the different cost of living. 
+Your stipend is determined by the Graduate School at Cornell. The PhD stipend is by no means a lot of money, but I believe people have found that it supports a comfortable life that allows you to focus on your studies, even in NYC. Note that there is a stipend supplement for NYC-based students who get a slightly higher stipend than Ithaca-based students (see more about location below), recognizing the different cost of living. 
 
 Relatedly, there is an expectation that your PhD will be your full-time work. A part-time PhD with me is not an option, though internships are possible and even recommended (see below).
 
@@ -124,7 +124,8 @@ _Have ideas!_
 
 Seriously, I do not like supervising a student without their own ideas—nor do I think it’s good for your development as a scholar. As noted above, the major thing that we’re doing here is turning you into a world-class scholar. One key way you do that is by coming up with new ideas. Moreover, it’s important for being competitive in academic job applications; those evaluations are impacted by your future work ideas, not only your work to date.
 
-Good ideas are rare and are hard to come by. Most of my ideas, which you can expect to hear plenty of, are bad (memorable quote from a student to me during their Cornell A (qualifying) Exam: "this is _actually_ not a bad idea!"). I love to hear ideas, good or bad -- some might turn out to be the opposite after a short (or long) discussion. Ideas are everywhere, and if you let yourself, you’ll have them all time. It can be easy in graduate school to find yourself submerged in the details of ongoing projects constantly, without popping up to think about and consider new projects, ideas, and directions. Both are important: a good scholar can move between levels of detail (i.e., “What’s the right statistical technique for these data in this paper?” to “Which of these 5 new ideas would have the most impact?”).
+Good ideas are rare and are hard to come by. [Michael Bernstein's writeup](http://hci.stanford.edu/msb/gettingstarted/) has ideas about ideas, making a strong argument "to go for volume". You should read it. 
+Most of my ideas, which you can expect to hear plenty of, are bad, and that's OK (memorable quote from a student to me during their Cornell A (qualifying) Exam: "this is _actually_ not a bad idea!"). I love to hear ideas, good or bad -- some might turn out to be the opposite after a short (or long) discussion. Ideas are everywhere, and if you let yourself, you’ll have them all time. It can be easy in graduate school to find yourself submerged in the details of ongoing projects constantly, without popping up to think about and consider new projects, ideas, and directions. Both are important: a good scholar can move between levels of detail (i.e., “What’s the right statistical technique for these data in this paper?” to “Which of these 5 new ideas would have the most impact?”).
 
 Where to find ideas
 Some concrete ways in which one might find good ideas:
