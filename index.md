@@ -4,13 +4,15 @@
 
 While we give explicit guidance to our students in the classroom via our syllabi, we don’t do that for our PhD students.  This document is meant to capture the expected experience -- with its requirements and offerings, benefits and drawbacks  --  of a PhD student _working with [me](http://mornaaman.com) as an advisor, as part of my lab at Cornell Tech_.
 
-### Credits, Rights and Disclaimers
+#### Credits and Rights
 
-This document was authored by [Mor Naaman](http://mornaaman.com), borrowing heavily from [Eric Gilbert’s PhD syllabus](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/), and takes inspiration (and some text) from Sarita Yardi Schoenebeck's [note about student advising](http://yardi.people.si.umich.edu/advising.html) as well as others. While I often borrowed their ideas and many of Eric's own words (with [permission](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1)), I stand behind the text in this document, which, in this instance, only represents my own views, practices, and attitudes. I encourage you to refer to their notes for their thoughtful texts and more comprehensive cover of some of the topics. For example, this document focuses on the technical aspects of a PhD, while Eric's notes touch more deeply on some of the more, let's say, existential questions around this experience, as well as adding some tips about PhD topics like giving talks. Eric's syllabus also provides pointers to other sources of PhD advice. For an extended resource, Allison Koenecke had created an [excellent deck](https://koenecke.infosci.cornell.edu/files/CornellINFO7905_Koenecke_SP2025.pdf) with a full-semester worth of Professionalization for Information Science PhD students -- much of it is relevant beyond InfoSci and Cornell. 
-
-This is intended as a living document. I will update it as new topics that represent a significant part of the PhD experience arise, and as a response to feedback from advisees and others (or as I change my mind and approach to PhD advising). As with all guidance you get in academia, take caution when applying it to your situations and contexts. Cornell students should view this document as complementary to the Cornell doctoral student resources and guidelines. The Cornell PhD programs pages in [Information Science](https://infosci.cornell.edu/phd) and [Computer Science](https://www.cs.cornell.edu/phd) also have useful information and advice; if these pages have any information that contradicts my notes below, they are to be believed first. 
+This document was authored by [Mor Naaman](http://mornaaman.com), borrowing heavily from [Eric Gilbert’s PhD syllabus](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/), and takes inspiration (and some text) from Sarita Schoenebeck's [note about student advising](http://yardi.people.si.umich.edu/advising.html) as well as others.
 
 This text is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1). PhD advisors should feel free to borrow from this text (please also credit the past contributors), as was done for example in [this excellent guide](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI/edit) from the UW Makeability Lab. 
+
+#### Cornell Resources
+
+Cornell students should view this document as complementary to the Cornell doctoral student resources and guidelines. For example, the Cornell PhD programs in [Information Science](https://infosci.cornell.edu/phd) and [Computer Science](https://www.cs.cornell.edu/phd) also have useful information and advice; if these pages have information contradicting my notes below, the official pages are to be believed first. 
 
 ### The What and Why of a PhD
 
@@ -341,4 +343,10 @@ During your internship, I will mostly leave you alone. I want you to experience 
 Where could you expect to end up after your PhD? Well, the sample so far is not very large so it is hard to generalize and predict. Students I have advised have ended up in both academia and industry positions. Some typical targets are academic positions (often after a post-doc appointment), industry research, data scientist roles, software/ML engineering, and user experience research roles. 
 
 At some point in your PhD, typically after 3-4 years though sometimes earlier (and sometimes later), we will have a better idea of which careers you may desire and which may be attainable. When that happens, we will work together to align your work, output, and activities to maximize the likelihood of the desired outcome. 
+
+### Disclaimers and Related Information
+While I often borrowed ideas and even some words from [Eric](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/), [Sarita](http://yardi.people.si.umich.edu/advising.html) and others (with [permission](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1)), I stand behind the text in this document, which only represents my own views, practices, and attitudes. I encourage you to refer to their notes for their thoughtful texts and a more comprehensive coverage of some of the topics. For example, this document focuses on the technical aspects of a PhD, while Eric's notes touch more deeply on some of the more, let's say, existential questions around this experience, and add some tips about PhD topics like giving talks. Eric's syllabus also provides pointers to other sources of PhD advice. For an extended resource, Allison Koenecke had created an [excellent deck](https://koenecke.infosci.cornell.edu/files/CornellINFO7905_Koenecke_SP2025.pdf) with a full-semester worth of Professionalization for Information Science PhD students -- much of it is relevant beyond InfoSci and Cornell. 
+
+This is intended as a living document. I will update it as new topics that represent a significant part of the PhD experience arise, and as a response to feedback from advisees and others (or as I change my mind and approach to PhD advising).
+
 
