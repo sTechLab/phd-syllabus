@@ -279,6 +279,12 @@ Authorship order will become important, and the default expectation is that you 
 
 You are welcome to write papers without me, and likely to do so e.g. during internships. However, when work is done at the lab, as part of --or adjacent to-- your PhD, I expect to be collaborating on the work and on the paper writing. If that doesn't happen, we probably have other issues to work out!
 
+#### Using AI
+
+Using AI is OK in some cases, but its use must be disclosed, and the responsibility for the work is still yours. In research, AI chatbots and research tools can be helpful for generating ideas, suggesting approaches to problems, writing code, etc. You should let me know when and how you used them—this is perfectly fine. However, it is your responsibility to *fully understand and verify any AI‑generated output*.
+
+When writing papers, I recommend using AI only for grammar and minor edits. You should already know what you want to say in each paragraph. Do not use AI for a first draft or outline. For example, when writing about related work, you should first outline what you think are the key areas and papers to cover; only then may you ask AI for additional suggestions. If you send me a draft, I am likely to prefer to first see your pre‑AI notes. Do not send me AI‑improved or AI‑generated text, code, or analysis without clearly marking it as such. You may borrow reference ideas from AI, but you should not cite or rely on work you have not personally read. Again, you are responsible for *fully verifying any AI-written output*. If there is any content—paragraphs, sentences, quotes, or references—that you cannot explain or support, I will not be able to trust the work.
+
 #### Conference and Other Presentations
 
 With many of our papers submitted to highly peer-reviewed conferences, you can expect to be able to present your research in conferences (and similar settings), often to dozens if not hundreds of people. Later in your PhD you are also likely to have other presentations of your research work, including seminars and eventually job talks. I will help you prepare for these talks, taking an iterative process that follows in many ways the paper-writing process outlined above: planning/outlining, drafts, iterations. Expect more of this feedback and iteration earlier in your PhD; it is not uncommon for students to give 3-5 practice versions of the talk before their public presentation, at least in their early years. Job talks often take 10 or more iterations to “nail”. 
